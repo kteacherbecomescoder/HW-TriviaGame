@@ -33,8 +33,8 @@ var questions = [{
   answers: ["Pixies", "Backstreet Boys", "Candlebox", "The Cardigans"],
   correctAnswer: "The Cardigans",
 }, {
-  question: "Which 90's film had a character in it named 'The Dude'?",
-  answers: ["My Private Idaho", "Heat", "The Big Lebowski ", "Fight Club"],
+  question: "Which 90's film had a character in it named The Dude?",
+  answers: ["The Big Lebowski", "Heat", "My Private Idaho", "Fight Club"],
   correctAnswer: "The Big Lebowski",
 }, {
   question: "Who wrote Sinead O'Connor's #1 hit 'Nothing Compares 2 U'" ,
